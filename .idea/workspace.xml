@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40a19940-c801-47d2-a8d7-bebc7dc5fd29" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/week02/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/HttpClient结果截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/okHttp结果截图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/HttpClientUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/HttpHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/HttpInitializer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/NettyHttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/OkHttpUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/java/com/homework/week02/Week02Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/src/test/java/com/homework/week02/Week02ApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/week02/第二周作业.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\apache-maven-3.6.3\maven-repo" />
+        <option name="mavenHome" value="D:\apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="20syRfTTtIkbFSG87spzpr6h7xC" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40a19940-c801-47d2-a8d7-bebc7dc5fd29" name="Default Changelist" comment="" />
+      <created>1636847585301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636847585301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
